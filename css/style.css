@@ -4,5 +4,5 @@ p {
 }
 
 figcaption {
-  normal 
+  font: normal 0.75em, 1.5em;
 }
